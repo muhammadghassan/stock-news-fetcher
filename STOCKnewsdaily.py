@@ -4,7 +4,7 @@ from datetime import datetime, timedelta
 import time
 
 # Initialize client
-finnhub_client = finnhub.Client(api_key="cvvttl9r01qud9qkkie0cvvttl9r01qud9qkkieg")
+finnhub_client = finnhub.Client(api_key="API KEY")
 
 # === CONFIGURATION ===
 symbol = "AMZN"
