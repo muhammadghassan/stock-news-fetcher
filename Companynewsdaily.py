@@ -72,7 +72,7 @@ def fetch_daily_news(company_name, start_date_str, api_key):
 # USAGE EXAMPLE
 # ========================
 
-api_key = "aa0322608af24eafb23cf99c0ad90df3"
+api_key = "API KEY"
 company = "Apple Inc"
 start_date = "2025-03-15"
 
