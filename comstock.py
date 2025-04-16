@@ -117,7 +117,7 @@ def combined_news_fetcher(company_name, stock_symbol, newsapi_key, finnhub_key):
 if __name__ == "__main__":
     company_name = "Tesla Inc"
     stock_symbol = "TSLA"
-    newsapi_key = "8274889fd12e44079c79bb83357d16c4"
-    finnhub_key = "d000hnpr01qud9ql3fh0d000hnpr01qud9ql3fhg"
+    newsapi_key = "API KEY"
+    finnhub_key = "API KEY"
 
     combined_news_fetcher(company_name, stock_symbol, newsapi_key, finnhub_key)
